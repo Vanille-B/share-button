@@ -1,0 +1,11 @@
+# Fichiers
+config.codekit3
+share-button-min
+.DS_Store
+share-button-min.js
+
+# Dossiers
+/css/
+/old/
+
+
